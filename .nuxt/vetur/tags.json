@@ -1,0 +1,11 @@
+{
+  "AppFooter": {
+    "description": "Auto imported from components/AppFooter.vue"
+  },
+  "HeaderSection": {
+    "description": "Auto imported from components/HeaderSection.vue"
+  },
+  "LoadingPreview": {
+    "description": "Auto imported from components/LoadingPreview.vue"
+  }
+}

@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200;300;400;500;600&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Noto Sans', sans-serif;
+  scroll-behavior: smooth;
+}
+
+// app transitions
+.page-enter-active,
+.page-leave-active {
+  transition: opacity 0.5s;
+}
+.page-enter,
+.page-leave-to {
+  opacity: 0;
+}
+
+.app, body {
+  background-color: #111;
+  min-height: 100vh;
+}
+
+.button {
+  display: inline-block;
+  text-decoration: none;
+  color: inherit;
+  padding: .5rem 1rem;
+  min-width: 6rem;
+  background-color: #8c7ae6;
+  border: none;
+  color: #fff;
+  font-size: 0.8rem;
+  text-align: center;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: 0.2s ease all;
+
+  &:hover {
+    background-color: #715ae7;
+  }
+}
+
+.button-light {
+  background-color: transparent;
+  border: 1px solid #8c7ae6;
+
+  &:hover {
+    border-color: transparent;
+  }
+}
+
+.container {
+  width: 90%;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+

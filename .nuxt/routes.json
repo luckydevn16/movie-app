@@ -1,0 +1,16 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\_Workspace\\\\Freelancer\\\\Github\\\\redhatdev16\\\\Source\\\\movie-app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0d621887"
+  },
+  {
+    "name": "movies-movieid",
+    "path": "/movies/:movieid?",
+    "component": "D:\\\\_Workspace\\\\Freelancer\\\\Github\\\\redhatdev16\\\\Source\\\\movie-app\\\\pages\\\\movies\\\\_movieid.vue",
+    "chunkName": "pages/movies/_movieid",
+    "_name": "_45353aea"
+  }
+]
