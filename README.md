@@ -3,7 +3,7 @@ This app was build with Nuxt JS.
 
 Data is taken from [TMDB](https://www.themoviedb.org/) API
 
-[Demo](https://redhatdev16.github.io/movie-app/)
+[Demo](https://luckydevn16.github.io/movie-app/)
 
 ## Build Setup
 

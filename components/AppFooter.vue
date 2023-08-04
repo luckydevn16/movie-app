@@ -9,8 +9,8 @@
           </div>
           <div class="footer-block">
                 Made by 
-                <a href="https://redhatdev16.github.io/portfolio/" target="_blank" class="footer-link">
-                    redhatdev16
+                <a href="https://luckydevn16.github.io/portfolio/" target="_blank" class="footer-link">
+                    luckydevn16
                 </a>
           </div>
       </div>

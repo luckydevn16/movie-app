@@ -2,15 +2,15 @@
   {
     "name": "index",
     "path": "/",
-    "component": "D:\\\\_Workspace\\\\Freelancer\\\\Github\\\\redhatdev16\\\\Source\\\\movie-app\\\\pages\\\\index.vue",
+    "component": "D:\\\\_Workspace\\\\Freelancer\\\\@Serbian\\\\Github\\\\luckydevn16\\\\Source\\\\movie-app\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "_name": "_0d621887"
+    "_name": "_25860f76"
   },
   {
     "name": "movies-movieid",
     "path": "/movies/:movieid?",
-    "component": "D:\\\\_Workspace\\\\Freelancer\\\\Github\\\\redhatdev16\\\\Source\\\\movie-app\\\\pages\\\\movies\\\\_movieid.vue",
+    "component": "D:\\\\_Workspace\\\\Freelancer\\\\@Serbian\\\\Github\\\\luckydevn16\\\\Source\\\\movie-app\\\\pages\\\\movies\\\\_movieid.vue",
     "chunkName": "pages/movies/_movieid",
-    "_name": "_45353aea"
+    "_name": "_4e01b86c"
   }
 ]
